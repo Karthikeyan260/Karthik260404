@@ -19,9 +19,6 @@ I am a dedicated Full Stack Developer with a passion for creating innovative and
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 Top Projects
 
@@ -69,5 +66,14 @@ I am a dedicated Full Stack Developer with a passion for creating innovative and
 - **Features:** Single-Player Mode, Multiplayer Mode, Move Validation
 - **Status:** Completed
 - **Demo:** [Live Demo](https://chess-game-sandy-seven.vercel.app/)
+
+### [Weather Dashboard](https://github.com/Karthik260404/Weather-Dashboard)
+![Weather Dashboard](https://img.shields.io/badge/Project-Weather_Dashboard-blue?style=flat&logo=weather)
+A weather dashboard that fetches weather data from the OpenWeatherMap API.
+
+- *Technologies Used:* HTML, CSS, JavaScript
+- *Features:* Current Weather Data, 5-Day Forecast, Responsive Design
+- *Status:* Completed
+- *Demo:* [Live Demo](https://weather-dashboard-rho-inky.vercel.app/)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
