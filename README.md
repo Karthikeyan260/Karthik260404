@@ -32,7 +32,7 @@ I am a dedicated Full Stack Developer with a passion for creating innovative and
 - **Technologies Used:** HTML, JavaScript
 - **Features:** Text-to-Speech conversion, Voice Selection, Speed Adjustment
 - **Status:** Completed
-- **Demo:** [Live Demo](https://text-to-speech-webpage.vercel.app/))
+- **Demo:** [Live Demo](https://text-to-speech-webpage.vercel.app/)
 
 ### [Wikipedia Clone](https://github.com/Karthik260404/Wikipedia-clone)
 ![Wikipedia Clone](https://img.shields.io/badge/Project-Wikipedia_Clone-blue?style=flat&logo=wikipedia)
