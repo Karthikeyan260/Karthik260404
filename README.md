@@ -8,6 +8,7 @@ I’m a Full Stack Developer passionate about crafting innovative and user-frien
 - 🔭 **Ongoing Projects:** Text-to-Speech app, Chess game, and Weather Dashboard.
 - 💬 **Ask Me About:** Python, JavaScript, IoT, or anything tech-related!
 - 📫 **Contact:** [kartji005@gmail.com](mailto:kartji005@gmail.com)
+-  🔗 **LinkedIn:** [Karthikeyan's LinkedIn](https://www.linkedin.com/in/yourprofile)
 - ⚡ **Fun Fact:** I’m a game enthusiast and puzzle solver!
 
 ## 🛠️ Technologies & Tools
