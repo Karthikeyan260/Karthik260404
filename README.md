@@ -25,10 +25,24 @@ I am a dedicated Full Stack Developer with a passion for creating innovative and
 
 ## 🏆 Top Projects
 
-[Text-to-Speech App](https://github.com/Karthik260404/Text-to-Speech-webpage)
-[Wikipedia Clone](https://github.com/yourusername/wikipedia-clone)  
-[Snake Game](https://github.com/yourusername/snake-game)  
-[Tic Tac Toe](https://github.com/yourusername/tic-tac-toe)  
-[Chess Game](https://github.com/yourusername/chess-game)  
+### [Text-to-Speech App](https://github.com/Karthik260404/Text-to-Speech-webpage)
+![Text-to-Speech](https://img.shields.io/badge/Project-Text_to_Speech-ff7f0e?style=flat&logo=google)
+*A web app that converts text to speech.*
+
+### [Wikipedia Clone](https://github.com/Karthik260404/Wikipedia-clone)
+![Wikipedia Clone](https://img.shields.io/badge/Project-Wikipedia_Clone-blue?style=flat&logo=wikipedia)
+*A clone of Wikipedia using HTML, CSS, and JavaScript.*
+
+### [Snake Game](https://github.com/Karthik260404/snake-game)
+![Snake Game](https://img.shields.io/badge/Project-Snake_Game-green?style=flat&logo=snake)
+*A classic Snake game built with HTML, CSS, and JavaScript.*
+
+### [Tic Tac Toe](https://github.com/Karthik260404/Tic-Tac-Toe)
+![Tic Tac Toe](https://img.shields.io/badge/Project-Tic_Tac_Toe-lightgrey?style=flat&logo=gamepad)
+*A simple Tic Tac Toe game using HTML, CSS, and JavaScript.*
+
+### [Chess Game](https://github.com/Karthik260404/Chess-game)
+![Chess Game](https://img.shields.io/badge/Project-Chess_Game-yellow?style=flat&logo=chess)
+*A chess game built with HTML, CSS, and JavaScript.*
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
