@@ -25,10 +25,10 @@ I am a dedicated Full Stack Developer with a passion for creating innovative and
 
 ## 🏆 Top Projects
 
-[![Text-to-Speech App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=text-to-speech-app&theme=radical)]([[https://github.com/Karthik260404/Text-to-Speech-webpage]](https://github.com/Karthik260404/Text-to-Speech-webpage))
-[![Wikipedia Clone](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=wikipedia-clone&theme=radical)](https://github.com/yourusername/wikipedia-clone)
-[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=snake-game&theme=radical)](https://github.com/yourusername/snake-game)
-[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tic-tac-toe&theme=radical)](https://github.com/yourusername/tic-tac-toe)
-[![Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chess-game&theme=radical)](https://github.com/yourusername/chess-game)
+[Text-to-Speech App](https://github.com/Karthik260404/Text-to-Speech-webpage)
+[Wikipedia Clone](https://github.com/yourusername/wikipedia-clone)  
+[Snake Game](https://github.com/yourusername/snake-game)  
+[Tic Tac Toe](https://github.com/yourusername/tic-tac-toe)  
+[Chess Game](https://github.com/yourusername/chess-game)  
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
