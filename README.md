@@ -68,6 +68,6 @@ I am a dedicated Full Stack Developer with a passion for creating innovative and
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Features:** Single-Player Mode, Multiplayer Mode, Move Validation
 - **Status:** Completed
-- **Demo:** [Live Demo]](https://chess-game-sandy-seven.vercel.app/)
+- **Demo:** [Live Demo](https://chess-game-sandy-seven.vercel.app/)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
