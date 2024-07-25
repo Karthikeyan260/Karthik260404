@@ -64,4 +64,10 @@ I’m a Full Stack Developer passionate about crafting innovative and user-frien
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Demo:** [Live Demo](https://weather-dashboard-rho-inky.vercel.app/)
 
+### [Memory Game](https://github.com/Karthik260404/memory-Game)
+![Memory Game](https://img.shields.io/badge/Project-Memory_Game-purple?style=flat&logo=brain)
+*A memory card game to test and improve your memory skills.*
+
+- **Technologies Used:** HTML, CSS, JavaScript
+
 Feel free to explore my projects, and don’t hesitate to reach out with any questions or collaboration ideas. I’m excited to connect and share knowledge!
