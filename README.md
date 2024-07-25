@@ -5,7 +5,7 @@
 I’m a Full Stack Developer passionate about crafting innovative and user-friendly applications. Dive into my projects and tech stack below:
 
 - 🌱 **Currently Learning:** Advanced animations and smooth scrolling to elevate web experiences.
-- 🔭 ** Projects:** Text-to-Speech app, Chess game, and Weather Dashboard.
+- 🔭 **Projects:** Text-to-Speech app, Chess game, and Weather Dashboard.
 - 💬 **Ask Me About:** Python, JavaScript, IoT, or anything tech-related!
 - 📫 **Contact:** [kartji005@gmail.com](mailto:kartji005@gmail.com)
 -  🔗 **LinkedIn:** [Karthikeyan's LinkedIn](https://www.linkedin.com/in/karthikeyan-k-b41509258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
