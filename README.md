@@ -1,6 +1,6 @@
 # Hi there, I'm Karthikeyan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Karthik260404&color=blue)
 
 I’m a Full Stack Developer passionate about crafting innovative and user-friendly applications. Dive into my projects and tech stack below:
 
